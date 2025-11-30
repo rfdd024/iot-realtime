@@ -1,22 +1,22 @@
---------Cek Versi Python & PIP di Laptop-------------------
+Project Setup Guide
 
-python --version
-pip --version
+-------- Cek Versi Python & PIP di Laptop --------
 
---------- Versi Python yang digunakan ---------------------
+1. python --version
+2. pip --version
+
+
+-------- Versi Python yang digunakan --------
 
 Python version : Python 3.11.4
 
 
---------Install Requirement-------------------
+-------- Install Requirement --------
 
 python -m pip install streamlit pandas numpy plotly paho-mqtt joblib streamlit-autorefresh
 
 
---------Untuk menjalankan streamlit:----------
+-------- Untuk menjalankan streamlit: --------
 
 streamlit run app.py
-
-
-
 
